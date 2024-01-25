@@ -5,9 +5,12 @@ body{
     margin: 0;
     padding: 0;
 }
+img{
+    width: 100%;
+
+}
 .column img{
-    width: 680px;
-    height: 400px;
+    
     margin-top: 5px;
 }
 .row{
