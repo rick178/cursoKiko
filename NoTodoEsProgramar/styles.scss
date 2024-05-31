@@ -1,0 +1,22 @@
+$primary: #e93a00;
+@import "./node_modules/bootstrap/scss/bootstrap.scss";
+
+.section{
+    padding: 60px 0;
+}
+.amazon-link img{
+    width: 120px;
+
+}
+
+.banner{
+    background: url("assets/images/banner-cover.webp") no-repeat;
+    background-size: cover;
+    background-position: top left;
+
+}
+
+.btn-primary{
+    color: white;
+    font-weight: bolder;
+}
